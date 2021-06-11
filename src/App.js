@@ -7,7 +7,7 @@ function App() {
   return (
     <div className="App">
       <div className="jumbotron">
-        <h1 className="display-3">Demo state</h1>
+        <h1 className="display-3">Demo state Buổi 1 ABC ABC</h1>
         <h3>{Number}</h3>
         <button type="button" className="btn btn-primary" onClick={() => setNumber(Number + 1)}> Tăng </button>
         <button type="button" className="btn btn-info" onClick={() => setNumber(Number - 1)}>Gỉam </button>
